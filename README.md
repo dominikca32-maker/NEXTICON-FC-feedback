@@ -28,9 +28,7 @@ Bitte das passende Formular nutzen, keine leeren Issues.
 
 Saves enthalten den Karrierestand. Nur anhängen, wenn du das willst. Keine Passwörter, keine Google-Daten, keine fremden Slots.
 
-## Board
-
-Issues landen im GitHub-Project **Closed Beta** (Bugs und Wünsche als eigene Views). Status dort: Inbox → Triage → In progress → Done.
+Bugs und Wünsche liegen als Issues in diesem Repo (`bug` / `enhancement`). Kein extra Project-Board.
 
 ## Sprachen
 
