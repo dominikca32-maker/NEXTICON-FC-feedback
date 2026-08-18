@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: NextIcon FC spielen
+    url: https://nexticon-fc.onrender.com
+    about: Closed-Beta-Build (Zugangscode nötig).
+  - name: Staging
+    url: https://nexticon-fc-staging.onrender.com
+    about: Integrations-Vorschau. Gelbes Staging-Banner.
+  - name: Source repository
+    url: https://github.com/dominikca32-maker/NEXTICON-FC
+    about: Privates Spiel-Repo. Hier keine Code-PRs — nur Bugs und Wünsche in diesem Feedback-Repo.
