@@ -1,43 +1,58 @@
-# NextIcon FC — Feedback
+# NextIcon FC: Feedback
 
-Öffentliches Board für **Bugs** und **Feature-Requests** der Closed Beta von [NextIcon FC](https://nexticon-fc.onrender.com).
+Öffentliches Board für **Bugs** und **Wünsche** zu [NextIcon FC](https://nexticon-fc.com), der Fußballkarriere im Browser. Das Spiel ist in einer frühen **Alpha**.
 
-Der Spielcode liegt in einem **getrennten, privaten** Repository. Hier gibt es keine Pull Requests, keine Builds und keinen Quellcode — nur Meldungen von Testern.
+Der Spielcode liegt in einem **getrennten, privaten** Repository. Hier gibt es keine Pull Requests, keine Builds und keinen Quellcode, nur Meldungen von Spielern.
 
 ## Spielen
 
 | Umgebung | URL |
 | --- | --- |
-| Production (Closed Beta) | https://nexticon-fc.onrender.com |
-| Staging | https://nexticon-fc-staging.onrender.com |
+| Live | https://nexticon-fc.com |
+| Staging (neueste Änderungen, kann wackeln) | https://nexticon-fc-staging.onrender.com |
 
-Zugang nur mit Beta-Code. Ein GitHub-Account wird zum Melden gebraucht, nicht zum Spielen.
+Passcodes und private Einladungen bitte nicht öffentlich posten.
 
 ## So meldest du etwas
 
-1. **[Bug](https://github.com/dominikca32-maker/NEXTICON-FC-feedback/issues/new?template=bug.yml)** — etwas läuft falsch oder bricht ab.
-2. **[Feature-Request](https://github.com/dominikca32-maker/NEXTICON-FC-feedback/issues/new?template=feature.yml)** — eine Idee oder ein Wunsch.
+### Am besten: im Spiel über Discord
 
-Bitte das passende Formular nutzen, keine leeren Issues.
+Während der Alpha läuft Feedback vor allem über unseren **[Discord](https://discord.gg/PxbHYn7Nu)**. Im Spiel öffnet der Feedback-Knopf eine Auswahl, bereitet deinen Beitrag vor und legt auf Wunsch einen Screenshot und deinen Spielstand bei.
 
-### Beim Bug bitte mitgeben (wenn vorhanden)
+| Kanal | Wofür |
+| --- | --- |
+| `#bugs` | Etwas läuft falsch oder bricht ab |
+| `#gameplay-feedback` | Balance, Spielgefühl, Karriere, Livespiel, Minispiele |
+| `#gui-feedback` | Aussehen, Bedienung, Handy-Ansicht |
+| `#feature-requests` | Ideen und Wünsche |
+
+### Ohne Discord: hier auf GitHub
+
+1. **[Bug melden](https://github.com/dominikca32-maker/NEXTICON-FC-feedback/issues/new?template=bug.yml)**: etwas läuft falsch oder bricht ab.
+2. **[Wunsch einreichen](https://github.com/dominikca32-maker/NEXTICON-FC-feedback/issues/new?template=feature.yml)**: eine Idee für das Spiel.
+
+Bitte das passende Formular nutzen, keine leeren Issues. Bugs und Wünsche tragen die Labels `bug` bzw. `enhancement`.
+
+### Beim Bug bitte mitgeben (wenn möglich)
 
 - Screenshot der Stelle, an der es passiert
-- Save-Datei des betroffenen Karriere-Slots (JSON), sobald die App sie zum Download anbietet
-- Browser, Gerät, Sprache, Version
+- Spielstand (JSON), den der Feedback-Dialog im Spiel für dich herunterlädt
+- Browser, Gerät, Sprache und was du gerade gemacht hast (Karriere, Livespiel, Online-Duell ...)
 
-Saves enthalten den Karrierestand. Nur anhängen, wenn du das willst. Keine Passwörter, keine Google-Daten, keine fremden Slots.
+Ein Spielstand enthält deinen Karrierestand. Nur anhängen, wenn du das willst. Keine Passwörter, keine Google-Daten, keine fremden Spielstände.
 
-Bugs und Wünsche liegen als Issues in diesem Repo (`bug` / `enhancement`). Kein extra Project-Board.
+## Neuigkeiten
+
+Was sich geändert hat, steht im Spiel im Hub unter **Meldungen & Patchnotes** und im Discord.
 
 ## Sprachen
 
-Deutsch, Englisch oder Spanisch — wie in der App. Ein Satz in einer dieser Sprachen reicht.
+Deutsch, Englisch oder Spanisch, wie im Spiel. Ein Satz in einer dieser Sprachen reicht.
 
 ## Was hier nicht hingehört
 
-- Rechteinhaber / Entfernung: bitte über das [Impressum in der App](https://nexticon-fc.onrender.com) bzw. den dortigen Legal-Dialog
-- Sicherheitslücken mit reproduzierbarem Missbrauch: nicht öffentlich posten, Issue ohne Repro-Details und Hinweis „security“ im Titel
+- Rechteinhaber und Entfernungswünsche: bitte über das Impressum bzw. den Rechtliches-Dialog [im Spiel](https://nexticon-fc.com)
+- Sicherheitslücken: nicht öffentlich mit Details posten. Issue ohne Anleitung zum Nachstellen, mit „security“ im Titel, oder per Direktnachricht im Discord
 - Quellcode, Patches, Secrets
 
 NextIcon FC ist ein nicht kommerzielles Hobbyprojekt und nicht mit FIFA, UEFA, Ligen oder Vereinen verbunden.
